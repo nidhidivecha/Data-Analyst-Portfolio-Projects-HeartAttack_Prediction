@@ -40,4 +40,6 @@ Create a pair plot to understand the relationship between all given variables.
 
 Designed interactive and dynamic dashboards using Tableau to understand attributes of a diseased vs. a healthy person.
 
+![heartattack](https://github.com/nidhidivecha/HeartAttack_Prediction-/assets/54711762/a2f59cb9-7981-45f9-8622-29de2f012e4c)
+
 
