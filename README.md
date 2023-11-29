@@ -9,8 +9,6 @@ The purpose of the project is to identify the causes of HeartDisease and develop
 
 🔸 **Steps**
 
-Creating interactive and dynamic KPI dashboards allows identifying trends and patterns in the data that can be useful for business decision-making. Therefore, there is a need to design and implement a set of KPIs to address the following points:
-
 **Preliminary Data Inspection:** 
 Load the dataset/Examine the structure of the data (columns, data types)/Check for missing values and duplicates.
 
@@ -31,15 +29,14 @@ Investigate if thalassemia is a major cause of CVD.
 Create a pair plot to understand the relationship between all given variables.
 
 **Data Modelling:** 
-Logistic Regression:
-Decision tree classifier
-Random Forest
-K-nearest Neighbors(KNN)
-Support Vector Classification(SVC)
+1)Logistic Regression
+2)Decision tree classifier
+3)Random Forest
+4)K-nearest Neighbors(KNN)
+5)Support Vector Classification(SVC)
 
 
 🔹 **Building Dashboard**
 
-Designed interactive visualizations using Tableau to understand attributes of a diseased vs. a healthy person.
-
+Designed interactive and dynamic dashboards using Tableau to understand attributes of a diseased vs. a healthy person.
 
